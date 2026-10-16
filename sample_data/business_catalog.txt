@@ -1,0 +1,23 @@
+LOCALBIZ DEMO STORE
+
+PRODUCTS
+Cotton Tote Bag | Price: INR 249 | Stock: 35
+Steel Water Bottle | Price: INR 399 | Stock: 18
+Desk Organizer | Price: INR 549 | Stock: 12
+A5 Notebook | Price: INR 99 | Stock: 60
+USB Desk Lamp | Price: INR 699 | Stock: 7
+
+SHIPPING
+Orders are dispatched within 2 business days.
+Delivery usually takes 3-7 business days after dispatch.
+
+RETURNS
+Unused products in original packaging can be returned
+within 7 days of delivery.
+Damaged or incorrect items should be reported within
+48 hours with photos.
+Refund processing takes 5-7 business days after inspection.
+
+PAYMENT
+UPI, debit cards, and credit cards are accepted.
+Cash on delivery is not available.
